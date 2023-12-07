@@ -18,11 +18,6 @@ Explore a collection of diverse and well-commented Ruby code challenges, showcas
   - Created a program to generate a list of prime numbers up to a specified limit.
   - Utilized nested loops and basic number theory to identify prime numbers.
 
-## Structure:
-
-- Each challenge is organized in a separate directory with clear and concise file structures.
-- 📖 Includes a README file providing problem descriptions, explanations of the implemented solutions, and any additional considerations.
-
 ## Usage:
 
 - Ideal for learners and enthusiasts looking to enhance their Ruby programming skills.
