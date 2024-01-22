@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-# frozen_string_literal: true
 
 puts 'Enter a final range should be a integer'
 range = gets.chomp
